@@ -1,4 +1,4 @@
-
+## Logistic_Regression
 - Don’t get confused by its name! It is a classification not a regression algorithm. It is used to estimate discrete values ( Binary values like 0/1, yes/no, true/false ) based on given set of independent variable(s).
 - Linear regression predictions are continuous values (i.e., rainfall in cm), 
 logistic regression predictions are discrete/categorical values (i.e., whether a student passed/failed) after applying a transformation function.
