@@ -1,11 +1,13 @@
-## 1. **Linear Regression**
+## **Linear Regression**
 
 - In statistics, linear regression is a linear approach to modelling the relationship between a dependent variable and one or more independent variables. 
 
 - Here, we establish relationship between independent and dependent variables by fitting a best line. This best fit line is known as regression line and represented by a linear equation 
+       
        Y=m*X+b
 
 - In this equation:
+
       Y – Dependent/op Variable 
       m – Slope
       X – Independent/ip variable
