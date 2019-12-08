@@ -1,12 +1,12 @@
 ## **Polynomial Regression**
 
 - A regression equation is a polynomial regression equation if the power of independent variable is more than 1. The equation below represents a polynomial equation:
+
             y=a+b*x^2
 
-In this regression technique, the best fit line is not a straight line. It is rather a curve that fits into the data points.
+- In this regression technique, the best fit line is not a straight line. It is rather a curve that fits into the data points.
 
 - Polynomial Regression is a form of linear regression in which the relationship between the independent variable x and dependent variable y is modeled as an nth degree polynomial. Polynomial regression fits a nonlinear relationship between the value of x and the corresponding conditional mean of y, denoted E(y |x)
-
 
 - The basic goal of regression analysis is to model the expected value of a dependent variable y in terms of the value of an independent variable x. In simple regression, we used following equation –
 
