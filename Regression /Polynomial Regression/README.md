@@ -4,7 +4,7 @@
 
             y=a+b*x^2
 
-![alt text](https://drive.google.com/uc?id=1KUBsFUslsY7hj1Fzm0e0mhkILvwijl4j)
+       ![alt text](https://drive.google.com/uc?id=1KUBsFUslsY7hj1Fzm0e0mhkILvwijl4j)
 
 - In this regression technique, the best fit line is not a straight line. It is rather a curve that fits into the data points.
 
@@ -37,7 +37,7 @@
 
 - While there might be a temptation to fit a higher degree polynomial to get lower error, this can result in over-fitting. Always plot the relationships to see the fit and focus on making sure that the curve fits the nature of the problem. Here is an example of how plotting can help:
 
-![alt text](https://drive.google.com/uc?id=1cMmax1QwPOJVRJ0Jzf4tbPvgMs45MHHd)
+      ![alt text](https://drive.google.com/uc?id=1cMmax1QwPOJVRJ0Jzf4tbPvgMs45MHHd)
 
 - Especially look out for curve towards the ends and see whether those shapes and trends make sense. Higher polynomials can end up producing wierd results on extrapolation.
 
