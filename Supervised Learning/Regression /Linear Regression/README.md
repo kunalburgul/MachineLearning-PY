@@ -22,6 +22,8 @@
 
 - This figure shows the plotted x and y values for a data set. The goal is to fit a line that is nearest to most of the points. This would reduce the distance (‘error’) between the y value of a data point and the line.
 
+- Linear regression is a basic and commonly used type of predictive analysis which usually works on continuous data.
+
 
 ### **Example** 
 
