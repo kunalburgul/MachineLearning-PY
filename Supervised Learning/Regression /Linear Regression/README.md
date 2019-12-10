@@ -13,7 +13,7 @@
       X – Independent/ip variable
       b – Intercept
 
-- In Linear Regression, the relationship between the input variables (x) and output variable (y) is expressed as an equation of the form y = mx + b. Thus, the goal of linear regression is to find out the values of coefficients m and b. Here, m is the intercept and b is the slope of the line.
+- In Linear Regression, the relationship between the input variables (x) and output variable (y) is expressed as an equation of the form y = mx + b. Thus, the goal of linear regression is to find out the values of coefficients m and b. Here, b is the intercept and m is the slope of the line.
 
 - These coefficients m and b are derived based on minimizing the sum of squared difference of distance between data points and regression line.
 
