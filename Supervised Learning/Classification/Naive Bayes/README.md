@@ -28,7 +28,7 @@ To determine the outcome play = ‘yes’ or ‘no’ given the value of variabl
 
 Thus, if the weather = ‘sunny’, the outcome is play = ‘yes’.
 
-Some of real world examples are:
+### Some of real world examples are:
 
 - To mark an email as spam or not spam
 - Classify a news article about technology, politics, or sports
