@@ -14,7 +14,8 @@ where:
 
 - This algorithm is called ‘naive’ because it assumes that all the variables are independent of each other, which is a naive assumption to make in real-world examples.
 
-Naive-Bayes
+![alt text](https://drive.google.com/open?id=1Kev6X2-5shlm2LESV0zSpUUXCLV8jOFp)
+
 Figure 4: Using Naive Bayes to predict the status of ‘play’ using the variable ‘weather’.
 
 Using Figure 4 as an example, what is the outcome if weather = ‘sunny’?
@@ -26,3 +27,10 @@ To determine the outcome play = ‘yes’ or ‘no’ given the value of variabl
 -> P(no|sunny)= (P(sunny|no) * P(no)) / P(sunny) = (2/5 * 5/14 ) / (5/14) = 0.40
 
 Thus, if the weather = ‘sunny’, the outcome is play = ‘yes’.
+
+Some of real world examples are:
+
+- To mark an email as spam or not spam
+- Classify a news article about technology, politics, or sports
+- Check a piece of text expressing positive emotions, or negative emotions?
+- Used for face recognition software.
