@@ -1,3 +1,5 @@
+## **Classification**
+
 Classification can be performed on structured or unstructured data. Classification is a technique where we categorize data into a given number of classes. The main goal of a classification problem is to identify the category/class to which a new data will fall under.
 
 Few of the terminologies encountered in machine learning – classification:
