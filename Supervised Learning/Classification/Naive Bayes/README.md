@@ -14,6 +14,7 @@ where:
 
 - This algorithm is called ‘naive’ because it assumes that all the variables are independent of each other, which is a naive assumption to make in real-world examples.
 
+
 ![alt text](https://drive.google.com/open?id=1Kev6X2-5shlm2LESV0zSpUUXCLV8jOFp)
 
 Figure 4: Using Naive Bayes to predict the status of ‘play’ using the variable ‘weather’.
