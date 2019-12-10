@@ -18,7 +18,7 @@ where:
 
 Figure: Using Naive Bayes to predict the status of ‘play’ using the variable ‘weather’.
 
-Using Figure 4 as an example, what is the outcome if weather = ‘sunny’?
+Using Figure above as an example, what is the outcome if weather = ‘sunny’?
 
 To determine the outcome play = ‘yes’ or ‘no’ given the value of variable weather = ‘sunny’, calculate P(yes|sunny) and P(no|sunny) and choose the outcome with higher probability.
 
