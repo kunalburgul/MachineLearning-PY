@@ -16,7 +16,7 @@ where:
 
  ![alt text](https://www.dataquest.io/wp-content/uploads/2019/01/Naive-Bayes.png)
 
-Figure 4: Using Naive Bayes to predict the status of ‘play’ using the variable ‘weather’.
+Figure: Using Naive Bayes to predict the status of ‘play’ using the variable ‘weather’.
 
 Using Figure 4 as an example, what is the outcome if weather = ‘sunny’?
 
