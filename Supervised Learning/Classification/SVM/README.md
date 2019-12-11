@@ -1,7 +1,10 @@
 ## **Support Vector Machine**
 
-Support vector machine is another simple algorithm that every machine learning expert should have in his/her arsenal. Support vector machine is highly preferred by many as it produces significant accuracy with less computation power. Support Vector Machine, abbreviated as SVM can be used for both regression and classification tasks. But, it is widely used in classification objectives.
+- Support vector machine is another simple algorithm that every machine learning expert should have in his/her arsenal.
 
+- Support vector machine is highly preferred by many as it produces significant accuracy with less computation power. 
+
+- Support Vector Machine, abbreviated as SVM can be used for both regression and classification tasks. But, it is widely used in classification objectives.
 
 - The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points.
 
