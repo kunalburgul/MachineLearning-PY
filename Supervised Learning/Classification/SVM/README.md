@@ -6,6 +6,8 @@
 
 - Support Vector Machine, abbreviated as SVM can be used for both regression and classification tasks. But, it is widely used in classification objectives.
 
+![alt text](https://miro.medium.com/max/300/0*9jEWNXTAao7phK-5.png)
+
 - The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points.
 
 - To separate the two classes of data points, there are many possible hyperplanes that could be chosen. 
