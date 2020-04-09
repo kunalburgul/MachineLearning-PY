@@ -1,0 +1,3 @@
+# Tensorflow 
+
+TensorFlow is the second machine learning framework that Google created and used to design, build, and train deep learning models.You can use the TensorFlow library do to numerical computations, which in itself doesn’t seem all too special, but these computations are done with data flow graphs. In these graphs, nodes represent mathematical operations, while the edges represent the data, which usually are multidimensional data arrays or tensors, that are communicated between these edges.
